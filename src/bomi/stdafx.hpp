@@ -3,7 +3,7 @@
 
 #if defined(__cplusplus) && !defined(__OBJC__)
 
-#if __cplusplus > 201100L
+#if __cplusplus > 201103L
 char *gets(char *str);
 #endif
 
